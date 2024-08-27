@@ -1,0 +1,13 @@
+.button {
+    background-color: blueviolet;
+    border-radius: 8px;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 5px 15px;
+} 
+
+.primaryButton {
+    background-color: #fff;
+    color: blueviolet;
+}

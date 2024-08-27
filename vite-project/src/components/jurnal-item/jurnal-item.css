@@ -1,0 +1,25 @@
+
+.jurnal_item {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+
+    border:1px solid blueviolet;
+
+    max-width: 600px;
+    min-width: 600px;
+}
+
+.jurnal_item__title {
+    align-self: start;
+    
+}
+
+.jurnal_item__wrapper {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    width: 100%;
+}
